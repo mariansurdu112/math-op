@@ -1,0 +1,26 @@
+{
+  "name": "math-op",
+  "version": "1.0.0",
+  "description": "Math operations app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariansurdu112/math-op.git"
+  },
+  "dependencies": {
+    "font-awesome": "4.7.0",
+    "totalsum": "^1.0.0"
+  }
+  "keywords": [
+    "math"
+  ],
+  "author": "mariansurdu112",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariansurdu112/math-op/issues"
+  },
+  "homepage": "https://github.com/mariansurdu112/math-op#readme"
+}
